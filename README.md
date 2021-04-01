@@ -1,16 +1,31 @@
-### Hi there 👋
+                        ..
+                     .;lkOxc,.
+                 .'cdOKKKKKK0ko;.
+              .;lkKXXXKKKKKKKKK0Odc'.
+          .'cd0XXXXXXXKKKKKKKKKK000Oxl;..
+         .lKXXXXXXXXKKKKKKKKKKK0000000Okd;
+         .dXXXXXXXXXKKKKKKKKK0000000000Okc
+         .dXXXXXXXXKKKKKKKKK0000000000OOk:
+         .dXXXXXXXKKKKKKKKK0000000000OOOkl............
+         .dXXXXXXKKKKKKKK00000OOOOOOOkkkkxxdddddddxd:.
+         .dXXXXKKKKKKKKKK0000Ol,'.............',lkx:.
+         .dXXXKKKKKKKKKK000000x,              .;xd;
+         .dXXKKKKKKKKKK00000000x;            .:xd,
+         .lKXKKKKKKKKK0000000000k:.         .cxo'
+          .,lx0KKKKK0000000000OOOkc.       .lxl.
+              .:ok0K000000000OOOkkkl.     'oxc.
+                 .,cdO000000Oko:',lko.  .,dx:.
+                     .;oxkxl;.    .cko;:odd;.
+                        ...        .:xkkkd,
+                                    .;doc'
+                                      ..
+██       █████  ██    ██  ██████   ██████  ███    ██ ██████  
+██      ██   ██  ██  ██  ██       ██    ██ ████   ██ ██   ██ 
+██      ███████   ████   ██   ███ ██    ██ ██ ██  ██ ██   ██ 
+██      ██   ██    ██    ██    ██ ██    ██ ██  ██ ██ ██   ██ 
+███████ ██   ██    ██     ██████   ██████  ██   ████ ██████  
 
-<!--
-**laygond/laygond** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+                        AI-SOLUTIONS
 
-Here are some ideas to get you started:
+I’m looking to collaborate on open source computer vision aplicactions to solve existing real life problems
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
